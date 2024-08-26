@@ -20,7 +20,7 @@ Please ensure that you have the following installed on your system:
 1. Clone this repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/NeroCorleone/matplotlib-tutorial
 cd <repo-directory>
 ```
 2. Create a virtual environment and activate it
@@ -39,6 +39,5 @@ pip install -r requirements.txt
 4. Launch Jupyter and execute notebooks 
 
 ```bash
-pip install jupyterlab
 jupyter lab
 ```
